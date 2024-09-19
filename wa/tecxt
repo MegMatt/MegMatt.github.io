@@ -8,13 +8,11 @@
 
 
     <title> Ryan Gosling </title>
-</head>    
 
+    <p class = "Title"> From Wikipedia, the free encyclopedia: <a href = "https://en.wikipedia.org/wiki/Ryan_Gosling"> URL </a> </p>
 
 
 <body>
-    
-    <p> From Wikipedia, the free encyclopedia. Source: <a href = "https://en.wikipedia.org/wiki/Ryan_Gosling"> URL </a> </p>
     <hr>
 
     <div style="display: flex;">
@@ -109,9 +107,9 @@
     <p id = "Acting_Career">
         <hr>
         <h2> Acting Career</h2>
-            <ul id = "Child_Actor" >1993–1999: Child Actor
+            <li id = "Child_Actor" >1993–1999: Child Actor
                 <br>
-                    <li>
+                    <ul>
                     In 1993, 12-year-old Gosling attended an open audition in Montreal for a revival of the 
                     Disney Channel's The Mickey Mouse Club. He was given a two-year contract as a mouseketeer 
                     and moved to Orlando, Florida. He appeared on-screen infrequently because other children were 
@@ -132,8 +130,8 @@
                     about the show, so it was no longer fun for him. He wanted to spend more time sitting with and devising a 
                     character as well as play a variety of roles, so he chose to transition into film and not accept any more 
                     television work.<br>
-                    </li>
-            </ul>
+                </ul>
+            </li>
 
             <li id = "Independent_Films"> 2000–2003: Independent films
                 <ul>
