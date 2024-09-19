@@ -5,3 +5,4 @@ line 11 <p> is never opened, added </p>
 line 19 the opening list is </li> needs to be <li>
 line 24 <ol> closes but it was closed as </ul> needs to be </ol>
 line 26 <p> is never closed, added </p>
+ling 28 "Image.jpg" needs to be all lowercalse "image.jpg"
