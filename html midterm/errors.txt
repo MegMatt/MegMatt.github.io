@@ -1,8 +1,9 @@
 Finding_errors.html file
 line 1 </html> needs to be at the bottom
+line 4 <html language = "en"> needs to be <html lang = "en">
 line 9 <h1> is never closed, added </h1>
 line 11 <p> is never opened, added </p>
 line 19 the opening list is </li> needs to be <li>
 line 24 <ol> closes but it was closed as </ul> needs to be </ol>
 line 26 <p> is never closed, added </p>
-ling 28 "Image.jpg" needs to be all lowercalse "image.jpg"
+line 28 "Image.jpg" needs to be all lowercalse "image.jpg"
