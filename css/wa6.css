@@ -23,7 +23,7 @@ body
     padding: 10px;
     font-size: 150%;
     bottom: 10px;
-    left: 1425px;
+    right: 10px;
     grid-column-start: 2;
     grid-row-start:2;
     position:absolute;
