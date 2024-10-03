@@ -1,0 +1,48 @@
+
+
+body
+{
+    background-size:cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-image:url(basketball.png);
+}
+
+
+.content_boxes
+{
+    display:grid;
+    grid-template-columns: repeat(4,25%);
+    grid-template-rows: 10px 50px auto;
+
+    margin-top: 0px;
+}
+
+.overlay_score
+{
+    padding: 10px;
+    font-size: 150%;
+    bottom: 10px;
+    left: 1425px;
+    grid-column-start: 2;
+    grid-row-start:2;
+    position:absolute;
+    display:grid;
+    background-color: whitesmoke;
+}
+
+
+.overlay_team
+{
+    padding:10px;
+    font-size: 150%;
+    grid-column-start: 2;
+    grid-row-start:3;
+    top: 10px;
+    left: 50px;
+    grid-column-start: 2;
+    grid-row-start:2;
+    position:absolute;
+    display:grid;
+    background-color: whitesmoke;
+}
