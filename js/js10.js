@@ -48,7 +48,6 @@ function result() {
   if(customName.value !== '') {
     const name = customName.value;
     wholestory = wholestory.replace('Bob',name);
-
   }
 
   if(document.getElementById("uk").checked) {
