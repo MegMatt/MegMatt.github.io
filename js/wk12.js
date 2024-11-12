@@ -1,11 +1,3 @@
-// let ourObject = {
-//     "name": "casey",
-//     "profession": "PhD Student",
-//     "age": 30,
-//     "pets":[{"name":"Boots", "type":"dog", "age": 9, "unit": "years"}, {"name":"Marty", "type": "cat", "age":5, "unit": "months"}]
-// }
-
-// console.log(ourObject);
 
 let myData = {};
 
@@ -67,8 +59,3 @@ function fetchDataJ(){
         document.getElementById("button_3").addEventListener("click", e=> {fetchDataC();})
 
 console.log(myData);
-
-// let name = "Casey";
-
-// let myString = "hello " + name + "!";
-// let myString = `hello ${name} !`;
